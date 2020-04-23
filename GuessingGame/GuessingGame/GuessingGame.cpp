@@ -11,6 +11,7 @@ void pickingNumber(int randomNumber);
 
 int main()
 {
+	//HI
 	int randomNumber = 0;
 	randomNumber = numberGenerator();
 	pickingNumber(randomNumber);
