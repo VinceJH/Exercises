@@ -12,7 +12,7 @@ int main()
 {
     unsigned int v = 0;
     string input = "";
-    cout << "Enter a number to draw a X, enter 'exit' to exit" << endl;
+    cout << "Enter a number to draw a V, enter 'exit' to exit" << endl;
     while (getline(cin, input)) {
         if (input == "exit") {
             cout << "Exiting";
@@ -27,7 +27,7 @@ int main()
             continue;
         }
 
-        cout << "Enter the size of the V below: " << v << endl;
+        cout << "Entered the size of the V below: " << v << endl;
         drawVpt2(v);
     }
     return 0;
