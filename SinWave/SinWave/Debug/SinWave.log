@@ -1,0 +1,3 @@
+﻿  SinWave.cpp
+C:\GitHub\Exercises\SinWave\SinWave\SinWave.cpp(19,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  SinWave.vcxproj -> C:\GitHub\Exercises\SinWave\Debug\SinWave.exe
