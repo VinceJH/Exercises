@@ -1,0 +1,3 @@
+﻿  REMAKER.cpp
+C:\GitHub\Exercises\REMAKER\REMAKER\REMAKER.cpp(38,9): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+  REMAKER.vcxproj -> C:\GitHub\Exercises\REMAKER\Debug\REMAKER.exe
