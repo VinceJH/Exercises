@@ -18,7 +18,6 @@ void spaces()
     {
         numberSpaces = 80 + 50 * sin(3.14 * i/180);
         cout << setw(numberSpaces) << "*\n";
-
     }
 }
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

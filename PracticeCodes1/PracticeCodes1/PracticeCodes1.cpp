@@ -1,13 +1,13 @@
 // PracticeCodes1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//program for 1 - 1/2 + 1/3 - 1/4 + 1/5 - 1/6 + 1/7.... + 1/99 - 1/100.
 
 #include <iostream>
 using namespace std;
 int main()
 {
 	double answer = 0.0;
-	int j = -1;
-	for (int i = 1; i <= 100; i++)
+	int j = -1; //changing the symbol + or -
+	for (int i = 1; i <= 100; i++)//
 	{
 		j = (-j) ;
 		answer = answer + j * 1.0 / i;		

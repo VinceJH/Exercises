@@ -1,6 +1,5 @@
-// PracticeCodes3.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
+﻿// PracticeCodes3.cpp : This file contains the 'main' function. Program execution begins and ends there.
+//Program for π/2 = ((2 x 2)/(1 x 3)) * ((4 x 4)/(3 x 5)) * ((6 x 6)/(5 x 7)) * .... * ((2n)^2) / ((2n - 1) * (2n + 1)).
 #include <iostream>
 using namespace std;
 

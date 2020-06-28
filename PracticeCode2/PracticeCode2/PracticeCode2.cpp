@@ -1,5 +1,5 @@
 // PracticeCode2.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//Program for 1/n(n+1)+...n = 20
 
 #include <iostream>
 using namespace std;

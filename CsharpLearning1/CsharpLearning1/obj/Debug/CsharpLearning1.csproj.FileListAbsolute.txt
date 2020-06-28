@@ -1,0 +1,9 @@
+C:\GitHub\Exercises\CsharpLearning1\CsharpLearning1\bin\Debug\CsharpLearning1.exe.config
+C:\GitHub\Exercises\CsharpLearning1\CsharpLearning1\bin\Debug\CsharpLearning1.exe
+C:\GitHub\Exercises\CsharpLearning1\CsharpLearning1\bin\Debug\CsharpLearning1.pdb
+C:\GitHub\Exercises\CsharpLearning1\CsharpLearning1\obj\Debug\CsharpLearning1.csprojAssemblyReference.cache
+C:\GitHub\Exercises\CsharpLearning1\CsharpLearning1\obj\Debug\CsharpLearning1.Properties.Resources.resources
+C:\GitHub\Exercises\CsharpLearning1\CsharpLearning1\obj\Debug\CsharpLearning1.csproj.GenerateResource.cache
+C:\GitHub\Exercises\CsharpLearning1\CsharpLearning1\obj\Debug\CsharpLearning1.exe
+C:\GitHub\Exercises\CsharpLearning1\CsharpLearning1\obj\Debug\CsharpLearning1.pdb
+C:\GitHub\Exercises\CsharpLearning1\CsharpLearning1\obj\Debug\CsharpLearning1.Form1.resources
